@@ -40,3 +40,4 @@ py.show()
 
 lr.predict([[6.5]])
 lr2.predict(pf.fit_transform([[6.5]]))
+#Employee Salary Prediction
